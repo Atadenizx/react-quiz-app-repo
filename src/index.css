@@ -155,17 +155,28 @@ progress {
   width: 100%;
   text-align: left;
   font-size: 2rem;
+  padding: 1rem 1rem;
+  width: 100%;
+  text-align: left;
 }
 
 .btn-option-correct {
   background-color: var(--color-theme);
   border: 2px solid var(--color-theme);
   color: var(--color-light);
+  font-size: 2rem;
+  padding: 1rem 1rem;
+  width: 100%;
+  text-align: left;
 }
 .btn-option-wrong {
   background-color: var(--color-accent);
   border: 2px solid var(--color-accent);
   color: var(--color-darkest);
+  font-size: 2rem;
+  padding: 1rem 1rem;
+  width: 100%;
+  text-align: left;
 }
 
 .answer {
